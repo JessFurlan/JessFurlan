@@ -1,16 +1,18 @@
-### Hi there 👋
+### Oi, meu nome é Jessica :)
+Atualmente faço ...        
 
-<!--
-**JessFurlan/JessFurlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏻‍💻 Atualmente estou em busca de oportunidade na área de **Ciência de Dados** 
+- 🧗🏼 Apaixonado por **analise de dados** 
+- 🖥️ Atualmente mais focado em:
 
-Here are some ideas to get you started:
+<div display="inline">
+  &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width="50" />&nbsp;&nbsp;
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+### Você também me encontra em:
+<a href="https://www.linkedin.com/in/jessica-moreira-furlan-543988115/">
+
