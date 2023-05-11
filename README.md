@@ -1,5 +1,4 @@
-### Oi, meu nome é Jessica :)
-Atualmente faço ...        
+### Oi, meu nome é Jessica :)     
 
 - 👨🏻‍💻 Atualmente estou em busca de oportunidade na área de **Ciência de Dados** 
 - 🧗🏼 Apaixonado por **analise de dados** 
