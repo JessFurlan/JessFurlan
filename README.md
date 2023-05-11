@@ -10,6 +10,4 @@ Atualmente faço ...
 
 ##
 
-### Você também me encontra em:
-<a href="(https://www.linkedin.com/in/jessica-moreira-furlan-543988115)">
 
