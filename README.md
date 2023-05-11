@@ -2,7 +2,7 @@
 
 - 👨🏻‍💻 Atualmente estou em busca de oportunidade na área de **Ciência de Dados** 
 - 🧗🏼 Apaixonado por **Análise de Dados** 
-- 🖥️ Atualmente mais focado em: **SQL**, **PYTHON** , **DAX**, **VBA** e **POWER BI**
+- 🖥️ Atualmente mais focada em: **SQL**, **PYTHON** , **DAX**, **VBA** e **POWER BI**
 
 
 </div>
